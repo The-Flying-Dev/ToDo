@@ -1,8 +1,12 @@
 Rails.application.routes.draw do
   
-  #nested routes
+  #nested routes and member routes
   resources :todo_lists do
-    resources :todo_items
+    resources :todo_items do
+      member do
+        patch :complete
+      end
+    end
   end
   root to: "todo_lists#index"  #Route for the Homepage
 
