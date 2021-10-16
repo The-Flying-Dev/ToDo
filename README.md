@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Creating muscle memory of the basic processes of development is a key practice towards becoming a better developer.So here I am having just completed a Todo List App.<br/>
+This tutorial is based on David Allen's interpretation of Mackenzie Child's Todo tutorial.<br/>
+Link to David Allen's post: https://deallen7.medium.com/how-to-build-a-todo-app-in-rails-e6571fcccac3
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
