@@ -1,6 +1,6 @@
 # README
 
-Creating muscle memory of the basic processes of development is a key practice towards becoming a better developer. So here I am having just completed a Todo List App.
+Creating muscle memory of the basic process of development (_typing the code_) is a key practice towards becoming a better developer. So here I am having just completed a Todo List App.
 <br/>
 <br/>
 This tutorial is based on David Allen's interpretation of Mackenzie Child's Todo App tutorial on Youtube.<br/>
